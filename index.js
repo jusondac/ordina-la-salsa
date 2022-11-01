@@ -14,8 +14,9 @@ const arr = [
   "kamu adalah orang yang berusaha memaafkan diri sendiri",
   "bukan tentang aku, ini semua tentang kamu",
   "tetap semangat orang baik",
-  "kita adalah emas dimata orang yang mencintai kita",
-  "kita adalah orang hebat dimata mereka yang mengenal kita",
+  "kita adalah orang hebat dimata orang yang mencintai kita",
+  "dan kamu itu hebat",
+  "kita adalah emas dimata mereka yang mengenal kita",
   "semua hal tentang kita",
   "love youuu!! >_<"
 ]
