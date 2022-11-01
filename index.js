@@ -41,6 +41,6 @@ button.addEventListener('click', function(){
 const off_my_face = new Audio();
 const source = document.createElement("source");
 source.type = "audio/mpeg";
-source.src = "/assets/off_my_face.mp3"
+source.src = "https://github.com/jusondac/ordina-la-salsa/blob/master/assets/off_my_face.mp3"
 off_my_face.appendChild(source);
 off_my_face.play();
